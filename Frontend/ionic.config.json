@@ -1,0 +1,7 @@
+{
+  "name": "proyectoReactJava",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
